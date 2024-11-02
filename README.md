@@ -17,7 +17,7 @@ https://control.peramix.com/?affid=14
 ```
 Informações Importantes:
 Apenas suporte básico.
-Versão a venda exclusivamente na plataforma Kirvano.
+Versão a venda exclusivamente na plataforma Kirvano ou site DFG.
 
 18/09/2024 – Versões Futuras
 A expectativa de que a importação de conversas esteja disponível na proxíma atualização, em uma primeira versão da 5.2.6 apesar das opções ela não funcionava, o que foi removido na revisão.
