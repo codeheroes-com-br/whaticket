@@ -48,17 +48,17 @@ O acesso é vitalício, as credencias são periodicamente renovadas, você sempr
 
 📅 07/11/2024 – Versão 5.3.5 = Versão Paga
 
-📅 Correção da Data de Vencimento no Topo: Data agora permanece fixa.
-🔄 Automação em Grupos: Não envia automações para grupos.
-🚫 Botão disableBot: Desabilita bots ou automações.
-✉️ Correção de Mensagem Citada.
-🔗 Permissão para Conexões com Mesmo Nome.
-⏳ Expiração de Conexões: Desconexão automática após vencimento da empresa.
-🗑️ Seleção para Deletar Contatos: Opção de seleção para exclusão na página “Contatos”.
-🎵 Correção no Envio de Áudio OGG em respostas rápidas.
-📂 Visualização de Tickets Fechados por Operador: Aba removida do painel de usuários.
-📜 Visualização de Grupos por Operador: Aba removida do painel de usuários.
-💸 Atualização Financeira após Alteração de Plano: Valor ajustado automaticamente na lista do Financeiro.
+📅 Correção da Data de Vencimento no Topo: Data agora permanece fixa. </br>
+🔄 Automação em Grupos: Não envia automações para grupos. </br>
+🚫 Botão disableBot: Desabilita bots ou automações. </br>
+✉️ Correção de Mensagem Citada. </br>
+🔗 Permissão para Conexões com Mesmo Nome. </br>
+⏳ Expiração de Conexões: Desconexão automática após vencimento da empresa. </br>
+🗑️ Seleção para Deletar Contatos: Opção de seleção para exclusão na página “Contatos”. </br>
+🎵 Correção no Envio de Áudio OGG em respostas rápidas. </br>
+📂 Visualização de Tickets Fechados por Operador: Aba removida do painel de usuários. </br>
+📜 Visualização de Grupos por Operador: Aba removida do painel de usuários. </br>
+💸 Atualização Financeira após Alteração de Plano: Valor ajustado automaticamente na lista do Financeiro. </br>
 
 24/07/2024 – Versão 5.2.6 - Versão Gratuita
 
