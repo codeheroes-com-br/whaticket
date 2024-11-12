@@ -103,7 +103,6 @@ Instalador atualizado, versao NodeJS 20:
 https://github.com/launcherbr/instalador.git
 ```
 Notas Rápidas: </br>
-Notas Rápidas: </br>
 Requer servidor Ubuntu 20.04 LTS com ao menos 4 vcore e 8gb de ram.</br>
 Recomendamos Peramix, Contabo, e Hetzner</br>
 Não recomendamos Hostinger, Hostgator e Locaweb.</br>
